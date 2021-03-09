@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/netmaui/NetmauiForks/_apis/build/status/netmaui.pipelines-java?branchName=master)](https://dev.azure.com/netmaui/NetmauiForks/_build/latest?definitionId=14&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
